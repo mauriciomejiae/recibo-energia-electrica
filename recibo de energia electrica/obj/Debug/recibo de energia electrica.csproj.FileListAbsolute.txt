@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\recibo de energia electrica\recibo de energia electrica\bin\Debug\recibo de energia electrica.exe.config
+C:\Users\Mauricio M\Downloads\recibo de energia electrica\recibo de energia electrica\bin\Debug\recibo de energia electrica.exe
+C:\Users\Mauricio M\Downloads\recibo de energia electrica\recibo de energia electrica\bin\Debug\recibo de energia electrica.pdb
+C:\Users\Mauricio M\Downloads\recibo de energia electrica\recibo de energia electrica\obj\Debug\recibo de energia electrica.exe
+C:\Users\Mauricio M\Downloads\recibo de energia electrica\recibo de energia electrica\obj\Debug\recibo de energia electrica.pdb
